@@ -369,6 +369,7 @@
 				TargetAttributes = {
 					04B1318D1D27AA10009C1685 = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = BL86JR5S2K;
 					};
 					04B131A61D27AA10009C1685 = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -583,6 +584,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = BL86JR5S2K;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/WTShare/Lib/Tencent3.1.0",
@@ -605,6 +607,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = BL86JR5S2K;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/WTShare/Lib/Tencent3.1.0",
